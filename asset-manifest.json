@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hillel-hw22/static/css/main.f242e374.css",
+    "main.js": "/Hillel-hw22/static/js/main.973ff6e1.js",
+    "static/js/787.81da08a6.chunk.js": "/Hillel-hw22/static/js/787.81da08a6.chunk.js",
+    "index.html": "/Hillel-hw22/index.html",
+    "main.f242e374.css.map": "/Hillel-hw22/static/css/main.f242e374.css.map",
+    "main.973ff6e1.js.map": "/Hillel-hw22/static/js/main.973ff6e1.js.map",
+    "787.81da08a6.chunk.js.map": "/Hillel-hw22/static/js/787.81da08a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f242e374.css",
+    "static/js/main.973ff6e1.js"
+  ]
+}
